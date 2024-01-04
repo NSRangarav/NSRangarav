@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NSRangarav
 - 👀 I’m interested in ...Digital Forensics,Microsoft Azure, Blockchain and Python App Development
-- 🌱 I’m currently learning ...MSc.Cyberforensics and Cybersecurity , Certified Hyperledger Fabric Developer , Azure Fundamentals(AZ-900)
+- 🌱 I’m currently learning ...MSc.Cyberforensics and Cybersecurity, Azure Fundamentals(AZ-900) 
+- Certified Hyperledger Fabric Developer has been obtained by me.
 - 💞️ I’m looking to collaborate on ...Digital Forensic App development
 - 📫 How to reach me ...stduentazurist@hotmail.com , investigatorinvestor@icloud.com 
 <!---
